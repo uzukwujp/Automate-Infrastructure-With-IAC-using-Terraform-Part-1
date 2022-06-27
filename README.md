@@ -1,2 +1,2 @@
 # Automate-Infrastructure-With-IAC-using-Terraform-Part-1
-Project 16 of www.darey.io project based DevOps learning platform
+In this project we began the process of automating the infrastructure need to deploy the appilication in [project 15]()
