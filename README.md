@@ -41,3 +41,7 @@ Another concept you must know is data type. This is a general programing concept
 Ensure that every resource is tagged using multiple key-value pairs. You will see this in action as we go along.
 Try to write reusable code, avoid hard coding values wherever possible. (For learning purpose, we will start by hard coding, but gradually refactor our work to follow best practices).
 
+The screenshot below shows the code ran successfully:
+
+
+![terraform-project-16](https://user-images.githubusercontent.com/52359007/175930603-7f8c6813-4e0b-4e54-af8f-51ddb5f1a2fb.PNG)
